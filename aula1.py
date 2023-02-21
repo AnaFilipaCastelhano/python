@@ -1,11 +1,11 @@
-# print("Olá"[0:2])
-#
-# nome1 = "Ana"
-# nome2 = "Fábio"
-# idade1 = "41"
-# idade2 = "35"
-# receba = input("Escreva um número: ")
-# print(receba)
+print("Olá"[0:2])
+
+nome1 = "Ana"
+nome2 = "Fábio"
+idade1 = "41"
+idade2 = "35"
+receba = input("Escreva um número: ")
+print(receba)
 
 #numero1 = float(input("Escreva um número: \n"))
 # numero2 = float(input("Escreva um número: \n"))
