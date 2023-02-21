@@ -1,6 +1,6 @@
 print("Olá"[0:2])
 
-nome1 = "Ana"
+nome1 = "Julia"
 nome2 = "Fábio"
 idade1 = "41"
 idade2 = "35"
